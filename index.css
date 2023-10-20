@@ -1,0 +1,11 @@
+#heading {
+  color: red;
+}
+#parent {
+  border: 1px solid beige;
+  background-color: beige;
+  padding: 10px 20px;
+}
+.header {
+  color: rebeccapurple;
+}
